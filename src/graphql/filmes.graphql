@@ -1,0 +1,9 @@
+query getFilmes {
+    filmes {
+        titulo,
+        duracao,
+        estreia,
+        genero,
+        lancamento
+    }
+}

@@ -1,0 +1,58 @@
+[
+    {
+        "titulo": "Marylou",
+        "duracao": 80,
+        "genero": "Rosalba",
+        "lancamento": true,
+        "estreia": "2017-01-20"
+    },
+    {
+        "titulo": "Gwyneth",
+        "duracao": 81,
+        "genero": "Constancy",
+        "lancamento": false,
+        "estreia": "2018-01-28"
+    },
+    {
+        "titulo": "Eolanda",
+        "duracao": 142,
+        "genero": "Pettiford",
+        "lancamento": true,
+        "estreia": "2017-02-20"
+    },
+    {
+        "titulo": "Ricky",
+        "duracao": 105,
+        "genero": "Koziara",
+        "lancamento": true,
+        "estreia": "2020-01-21"
+    },
+    {
+        "titulo": "June",
+        "duracao": 172,
+        "genero": "Olympium",
+        "lancamento": false,
+        "estreia": "2019-11-20"
+    },
+    {
+        "titulo": "Roslyn",
+        "duracao": 151,
+        "genero": "Payson",
+        "lancamento": false,
+        "estreia": "2015-05-02"
+    },
+    {
+        "titulo": "Leia",
+        "duracao": 128,
+        "genero": "Gualtiero",
+        "lancamento": false,
+        "estreia": "2016-04-20"
+    },
+    {
+        "titulo": "Daryl",
+        "duracao": 131,
+        "genero": "Manolo",
+        "lancamento": true,
+        "estreia": "2018-01-10"
+    }
+]

@@ -1,0 +1,9 @@
+query filmePorNome($titulo: String!) {
+    filme(titulo: $titulo) {
+        titulo,
+        duracao,
+        estreia,
+        genero,
+        lancamento
+    }
+}
